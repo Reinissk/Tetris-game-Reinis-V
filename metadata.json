@@ -1,0 +1,5 @@
+{
+  "name": "React Competitive Tetris",
+  "description": "A modern, competitive Tetris web application built with React, TypeScript, and Tailwind CSS, featuring a pure TypeScript game engine, canvas rendering, and advanced features like SRS, T-Spins, and a local AI opponent.",
+  "requestFramePermissions": []
+}
